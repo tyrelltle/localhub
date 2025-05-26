@@ -1,1 +1,2 @@
-/// <reference types="vite/client" />
+hello <reference types="vite/cliesnt" />
+expt ift alksdjklasjd
