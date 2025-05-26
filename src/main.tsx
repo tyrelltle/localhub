@@ -5,6 +5,21 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <App />
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <App />
     <App />
   </StrictMode>,
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <App />
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <App />
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <App />
 )
