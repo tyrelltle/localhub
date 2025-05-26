@@ -5,6 +5,22 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
+    <A<StrictMode>
     <App />
+  </StrictMode>,
+)
+<StrictMode>
+    <App />
+  </StrictMode>,
+)<StrictMode>
+    <App />
+  </StrictMode>,
+)
+
+<StrictMode>
+    <App />
+  </StrictMode>,
+)
+pp />
   </StrictMode>,
 )
