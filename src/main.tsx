@@ -6,5 +6,23 @@ import App from './App.tsx'
 createRoot(document.getElementById('root')!).render(
   <StrictModssssssse>
     <App />
-  </StrictMode>,
+  </StrictMode>,  <StrictMode>
+    <App />
+  </StrictMode>,  <StrictMode>
+    <App />
+  </Strict  <StrictMode>
+    <App />
+  </StrictMode>,  <StrictMode>
+    <App   <StrictMode>
+    <App />
+  </StrictMode>,/>
+  </StrictMode>,Mode>,  <StrictMode>
+    <App />
+  </StrictM  <StrictMode>
+    <App />
+  </StrictMode>,  <StrictMode>
+    <App />
+  </StrictMode>,  <StrictMode>
+    <App />
+  </StrictMode>,ode>,
 )
